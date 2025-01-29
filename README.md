@@ -1,2 +1,1 @@
-This Is Count Down Timer
-Author - Fahad Mehmood
+This Is Count Down Timer. Author - Fahad Mehmood
